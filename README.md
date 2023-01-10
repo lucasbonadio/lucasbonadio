@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Bonadio</h1>
-<h3 align="center">Currently studying for be a mobile developer</h3>
+<h3 align="center">Currently studying for be a fullstack developer</h3>
 
 - 🌱 I’m currently learning **React Native, JavaScript, TypeScript...**
 
