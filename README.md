@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Bonadio</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Web3**
-
 - 👨‍💻 All of my projects are available at [https://github.com/lucasbonadio](https://github.com/lucasbonadio)
 
 - 📫 How to reach me **https://www.linkedin.com/in/lucasbonadio/**
